@@ -1,4 +1,10 @@
-
+@font-face {
+   font-family: 'Socialico';
+   font-style: normal;
+   src: url("//cdn2.hubspot.net/hubfs/2127252/Eggzack-May2016/Socialico.woff"),
+       url("//cdn2.hubspot.net/hubfs/2127252/Eggzack-May2016/Socialico.woff") ,
+       url("//cdn2.hubspot.net/hubfs/2127252/Eggzack-May2016/Socialico.woff");
+}
 @font-face {
     font-family: "Lato";
     font-style: normal;
